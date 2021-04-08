@@ -1,6 +1,6 @@
 output "Hello" {
   value = "Hello Gautam Verma"
 }
-output "Hello 1" {
+output "Hello1" {
   value = "Hello Gautam Verma1"
 }
